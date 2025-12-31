@@ -344,5 +344,5 @@ class EntityLifeCycleTest {
     assertNull(refoundMenu);
     transaction.rollback();
   }
-  
+
 }
